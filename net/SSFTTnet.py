@@ -8,7 +8,6 @@ from torch import nn
 import torch.nn.init as init
 
 
-
 def _weights_init(m):
     classname = m.__class__.__name__
     #print(classname)
