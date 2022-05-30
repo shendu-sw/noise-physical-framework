@@ -1,6 +1,6 @@
 # Noise Physical Framework
 
-This repository is the implementation for the paper "A CNN with Noise Inclined Module and Denoise Framework for Hyperspectral Image Classification".
+This repository is the implementation for the paper "A CNN with Noise Inclined Module and Denoise Framework for Hyperspectral Image Classification" [[paper](https://arxiv.org/abs/2205.12459)].
 
 ## Dependencies
 
@@ -48,5 +48,6 @@ If you find this work helpful for your research, please consider citing:
     @article{gong2022,
         Author = {Zhiqiang Gong and Ping Zhong and Jiahao Qi and Panhe Hu},
         Title = {A CNN with Noise Inclined Module and Denoise Framework for Hyperspectral Image Classification},
+        journal={arXiv Preprint arXiv: 2205.12459},
         Year = {2022}
     }
