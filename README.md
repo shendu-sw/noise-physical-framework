@@ -48,6 +48,6 @@ If you find this work helpful for your research, please consider citing:
     @article{gong2022,
         Author = {Zhiqiang Gong and Ping Zhong and Jiahao Qi and Panhe Hu},
         Title = {A CNN with Noise Inclined Module and Denoise Framework for Hyperspectral Image Classification},
-        journal={arXiv Preprint arXiv: 2205.12459},
+        journal={IET Image Processing},
         Year = {2022}
     }
